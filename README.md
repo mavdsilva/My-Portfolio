@@ -1,4 +1,4 @@
-﻿# 🚀 Mohit Kadu - Developer Portfolio
+﻿# 🚀 Maverick DSilva - Developer Portfolio
 
 A modern, fully-featured developer portfolio built with **React 19**, **TypeScript**, and **Vite**. Showcase your skills, projects, and connect with potential clients or employers through an interactive and responsive web application.
 
